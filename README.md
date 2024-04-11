@@ -2,4 +2,6 @@
 
 ### Greetings, friend 👋
 
-#### I'm John Briggs: developer, dreamweaver, visionary, plus Garth Marenghi fan: You are about to enter the world of my imagination; you are now entering my Gitplace.
+<b>I'm John Briggs</b>: developer, dreamweaver, visionary, plus Garth Marenghi fan.
+
+You are about to enter the world of my imagination; you are now entering my Gitplace.
